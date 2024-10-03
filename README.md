@@ -1,8 +1,7 @@
 Graphical User Interface (GUI) for compressive strength prediction of Roller compacted concrete using Gradient Boosting regressor (GBR):
 Developed by **
 
-Access with convenience: https://www.blackbox.ai/share/48003653-2240-429b-86ee-7a805b5e30c3
-
+Access with convenience: https://www.blackbox.ai/share/5f3ec49b-e659-4384-81c8-9a6e9cc09ebf
 I have made the GUI public for the usage and improvement of more similar problems and the sole purpose of research and development.
 
 ** Made by: 
